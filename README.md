@@ -1,1 +1,1 @@
-# LeetCode-Repository-
+# LeetCode
